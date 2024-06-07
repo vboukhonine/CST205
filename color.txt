@@ -1,0 +1,15 @@
+244
+41
+105
+#F42969
+------------
+Operating System macOS/Linux
+1. Used mkdir to make new directory
+2. Used touch test.cst205.txt to make text file
+3. Used nano to open file and edit it
+4. Renamed file using mv
+5. Verified contents of file using cat
+6. Copied the macOS/Linux code to output random numbers to generate numbers
+and save them to a file called color.txt
+7. Verified contents of file using cat and used the provided links.
+ 
